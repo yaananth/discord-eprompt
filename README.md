@@ -7,6 +7,7 @@ Reaction-based user input prompts for Discord bots
 
 ## Usage
 
+
 A *reaction prompt* is simply a message with a set of predefined reactions and a target user. The bot reacts to the 
 message with its set of reactions, leaving what are basically buttons which can be clicked by users. Normally, clicking 
 on a reaction would just increase the count of that reaction on the message.  With reaction prompts, however, a 
